@@ -10,7 +10,8 @@ public static void main(String[] args) {
 	int e=20;
 	int f=d+e;
 	System.out.println(f);
-	
+	String s="Greens";
+	System.out.println(s);
 	
 }
 }
